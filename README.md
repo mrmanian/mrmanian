@@ -29,7 +29,7 @@
 <br/>
 <br/>
 
-<img align="left" alt="mrmanian's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mrmanian&show_icons=true&hide_border=true" />
+<img align="left" alt="mrmanian's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mrmanian&hide=prs,contribs&show_icons=true&include_all_commits=True&hide_border=True&theme=radical" />
 
 [website]: https://google.com
 [gmail]: mailto:mikemanian@gmail.com
