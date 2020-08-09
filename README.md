@@ -16,6 +16,7 @@
 [<img align="left" alt="mrmanian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="mrmanian | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 
+<br/>
 
 ### Languages and Tools:
 
@@ -29,7 +30,9 @@
 <img align="left" alt="IBM Watson Studio" width="26px" src="https://img.icons8.com/officel/40/000000/ibm-watson.png"/>
 <img align="left" alt="Microsoft Excel" width="26px" src="https://img.icons8.com/fluent/48/000000/microsoft-excel-2019.png"/>
 
-
+<br/>
+<br/>
+sss
 ---
 
 <img align="left" alt="mrmanian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrmanian&hide=prs,contribs&show_icons=true&include_all_commits=True&hide_border=True&theme=default"/>
