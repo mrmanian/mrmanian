@@ -1,39 +1,47 @@
-### Hi there, I'm Michael - aka [mrmanian][website] 👋
+## Hi there, I'm Michael - aka [mrmanian][website] 👋
 
-## I'm a Student, Brother, and aspiring Millionaire! 😉
+### I'm a Student, Brother, and aspiring Millionaire! 😉
 - 🌱 I’m currently studying for an AWS Certified Solutions Architect Associate certification!
-- 🔭 I recently completed a 9 course IBM Data Science specialization.
+- 📚 I recently completed a 9 course IBM Data Science specialization.
 - 👯 I’m looking to hone and sharpen my skills through working on group or solo projects.
-- 🥅 2020 Goals: Continue learning and being the best version of myself. 📖
-- ⚡ Some fun facts: I love to stock trade 📈, listen to music 🎧, and watch football 🏈.
+- 🥅 2020 Goals: Continue learning and become the best version of myself. 💡
+- ⚡ Some fun facts about me: I love to stock trade 📈, listen to music 🎧, workout 🏋, and watch football 🏈.
+
+<br/>
+
+---
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img style="text-align:left" alt="WEBSITE.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img style="text-align:left" alt="mrmanian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img style="text-align:left" alt="mrmanian | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />]
-[<img align="left" alt="PyCharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="PyCharm" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="Microsoft Excel" width="26px" src="https://img.icons8.com/fluent/48/000000/microsoft-excel-2019.png" />]
+<img style="text-align:left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img style="text-align:left" alt="PyCharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
+<img style="text-align:left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img style="text-align:left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img style="text-align:left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+<img style="text-align:left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img style="text-align:left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img style="text-align:left" alt="IBM Watson Studio" width="26px" src="https://img.icons8.com/officel/40/000000/ibm-watson.png"/>
+<img style="text-align:left" alt="Microsoft Excel" width="26px" src="https://img.icons8.com/fluent/48/000000/microsoft-excel-2019.png"/>
 
-<br />
-<br />
+<br/>
+<br/>
 
-<img align="left" alt="mrmanian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrmanian&hide=prs,contribs&show_icons=true&include_all_commits=True&hide_border=True&theme=radical" />
+---
 
-<br />
+<img style="text-align:left" alt="mrmanian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrmanian&hide=prs,contribs&show_icons=true&include_all_commits=True&hide_border=True&theme=default"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanian&layout=compact&theme=radical" />
+<br/>
+<br/>
+
+<img style="text-align:left" alt="mrmanian's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanian&layout=compact&hide_border=True&theme=default"/>
 
 
 [website]: https://google.com
