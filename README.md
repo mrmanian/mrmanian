@@ -4,7 +4,7 @@
 - 🌱 I’m currently studying for an AWS Certified Solutions Architect Associate certification!
 - 📚 I recently completed a 9 course IBM Data Science specialization.
 - 👯 I’m looking to hone and sharpen my skills through working on group or solo projects.
-- 🥅 2020 Goals: Continue learning and become the best version of myself. 💡
+- 🥅 Future Goals: Continue learning and become the best version of myself. 💡
 - ⚡ Some fun facts about me: I love to stock trade 📈, listen to music 🎧, workout 🏋, and watch football 🏈.
 
 
@@ -32,16 +32,16 @@
 
 <br/>
 <br/>
-sss
+
 ---
 
 <img align="left" alt="mrmanian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrmanian&hide=prs,contribs&show_icons=true&include_all_commits=True&hide_border=True&theme=default"/>
 
 <br/>
 
-<img align="left" alt="mrmanian's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanian&layout=compact&hide_border=True&theme=default"/>
+<img align="left" alt="mrmanian's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanian&layout=compact&hide_border=True&hide=jupyternotebook&theme=default"/>
 
 
-[website]: https://google.com
+[website]: https://mrmanian.pythonanywhere.com/
 [gmail]: mailto:mikemanian@gmail.com
-[linkedin]: https://linkedin.com/in/michael-manian
+[linkedin]: https://linkedin.com/in/michael-manian/
