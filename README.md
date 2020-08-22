@@ -37,8 +37,6 @@
 
 <img align="left" alt="mrmanian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrmanian&hide=prs,contribs&show_icons=true&include_all_commits=True&hide_border=True&theme=default"/>
 
-<br/>
-
 <img align="left" alt="mrmanian's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanian&hide_border=True&theme=default"/>
 
 
