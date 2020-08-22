@@ -39,7 +39,7 @@
 
 <br/>
 
-<img align="left" alt="mrmanian's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanian&layout=compact&hide_border=True&hide=jupyternotebook&theme=default"/>
+<img align="left" alt="mrmanian's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanian&hide_border=True&theme=default"/>
 
 
 [website]: https://mrmanian.pythonanywhere.com/
