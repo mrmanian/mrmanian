@@ -1,10 +1,10 @@
 ## Hi there, I'm Michael 👋
 
-- 🌱 I’m graduated NJIT with a Bachelors Degree in Computer Science and Business Management.
+- 🌱 I graduated NJIT with a Bachelors Degree in Computer Science and Business Management.
 - 📚 I work at JP Morgan as part of the Rates Production Management team.
-- 👯 I love to network and research new skill sets.
-- 🥅 Future Goals: Have a steady job and multiple streams of income so I can retire early and travel the world 🌎
-- ⚡ Some fun facts about me: I love to keep track of financial news 📈, listen to music 🎧, workout 🏋, and watch sports 🏈
+- 👯 I love to network with others and research new skills.
+- 🥅 Future Goals: Have a steady job with multiple streams of income so I can retire early and travel the world 🌎.
+- ⚡ Some fun facts about me: I love to keep track of financial news 📈, listen to music 🎧, workout 🏋, and watch sports 🏈.
 
 
 ---
@@ -38,9 +38,9 @@
 
 ---
 
-<img align="left" alt="mrmanian's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanian&hide_border=True&theme=default&count_private=true?exclude_repo=IBM-Data-Science-Capstone"/>
+<img align="left" alt="mrmanian's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanian&hide=jupyter%20notebook&hide_border=True&theme=default&count_private=true"/>
 
-<img align="left" alt="mrmanian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrmanian&hide=prs,jupyter%20notebook,contribs&show_icons=true&include_all_commits=True&hide_border=True&theme=default&count_private=true&layout=compact"/>
+<img align="left" alt="mrmanian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrmanian&hide=prs,contribs,stars&show_icons=true&include_all_commits=True&hide_border=True&theme=default&count_private=true&layout=compact"/>
 
 
 [gmail]: mailto:michaelrmanian@gmail.com
